@@ -32,15 +32,7 @@ Log-in
 
 # HERO
 
-The Season 8
-
 Steam
-
-Watch live
-
-<ion-icon name="play-circle"></ion-icon>
-
-Dream making
 
 
 
